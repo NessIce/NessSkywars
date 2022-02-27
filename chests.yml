@@ -1,0 +1,97 @@
+chests:
+  solo:
+    basic:
+      - '100 :: STONE : 0 : 32'
+      - '100 :: DIAMOND_SWORD : 0 : 1'
+      - '100 :: COOKED_BEEF : 0 : 8'
+      - '100 :: COOKED_BEEF : 0 : 8'
+      - '100 :: IRON_HELMET : 0 : 1'
+      - '100 :: IRON_LEGGINGS : 0 : 1'
+      - '100 :: BOW : 0 : 1'
+      - '100 :: POTION : 16418 : 1'
+      - '100 :: IRON_PICKAXE : 0 : 1'
+      - '100 :: EGG : 0 : 8'
+
+    complement:
+      - '100 :: WOOD : 0 : 32'
+      - '100 :: COOKED_BEEF : 0 : 8'
+      - '100 :: COOKED_BEEF : 0 : 8'
+      - '100 :: DIAMOND_CHESTPLATE : 0 : 1'
+      - '100 :: IRON_BOOTS : 0 : 1'
+      - '100 :: ARROW : 0 : 32'
+      - '100 :: IRON_AXE : 0 : 1'
+      - '100 :: POTION : 0 : 1'
+      - '100 :: FISHING_ROD : 0 : 1'
+      - '100 :: WATER_BUCKET : 0 : 1'
+
+    feast:
+      - '100 :: EGG : 0 : 8'
+      - '100 :: STONE : 0 : 32'
+      - '100 :: WOOD : 0 : 32'
+      - '40 :: ENDER_PEARL : 0 : 3'
+      - '40 :: GOLDEN_APPLE : 0 : 3'
+      - '20 :: DIAMOND_HELMET : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+      - '20 :: DIAMOND_CHESTPLATE : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+      - '20 :: DIAMOND_LEGGINGS : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+      - '20 :: DIAMOND_BOOTS : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+      - '20 :: DIAMOND_SWORD : 0 : 1 : enchants=DAMAGE_ALL:1'
+      - '20 :: BOW : 0 : 1 : enchants=ARROW_DAMAGE:1'
+      - '20 :: BOW : 0 : 1 : enchants=ARROW_DAMAGE:3'
+      - '20 :: ARROW : 0 : 32'
+
+    duel:
+      basic:
+        - '100 :: STONE : 0 : 32'
+        - '100 :: DIAMOND_SWORD : 0 : 1'
+        - '100 :: COOKED_BEEF : 0 : 8'
+        - '100 :: COOKED_BEEF : 0 : 8'
+        - '100 :: IRON_HELMET : 0 : 1'
+        - '100 :: IRON_LEGGINGS : 0 : 1'
+        - '100 :: BOW : 0 : 1'
+        - '100 :: POTION : 16418 : 1'
+        - '100 :: IRON_PICKAXE : 0 : 1'
+        - '100 :: EGG : 0 : 8'
+
+      complement:
+        - '100 :: WOOD : 0 : 32'
+        - '100 :: COOKED_BEEF : 0 : 8'
+        - '100 :: COOKED_BEEF : 0 : 8'
+        - '100 :: DIAMOND_CHESTPLATE : 0 : 1'
+        - '100 :: IRON_BOOTS : 0 : 1'
+        - '100 :: ARROW : 0 : 32'
+        - '100 :: IRON_AXE : 0 : 1'
+        - '100 :: POTION : 0 : 1'
+        - '100 :: FISHING_ROD : 0 : 1'
+        - '100 :: WATER_BUCKET : 0 : 1'
+
+      feast:
+        - '100 :: EGG : 0 : 8'
+        - '100 :: STONE : 0 : 32'
+        - '100 :: WOOD : 0 : 32'
+        - '40 :: ENDER_PEARL : 0 : 3'
+        - '40 :: GOLDEN_APPLE : 0 : 3'
+        - '20 :: DIAMOND_HELMET : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+        - '20 :: DIAMOND_CHESTPLATE : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+        - '20 :: DIAMOND_LEGGINGS : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+        - '20 :: DIAMOND_BOOTS : 0 : 1 : enchants=PROTECTION_ENVIRONMENTAL:2'
+        - '20 :: DIAMOND_SWORD : 0 : 1 : enchants=DAMAGE_ALL:1'
+        - '20 :: BOW : 0 : 1 : enchants=ARROW_DAMAGE:1'
+        - '20 :: BOW : 0 : 1 : enchants=ARROW_DAMAGE:3'
+        - '20 :: ARROW : 0 : 32'
+
+
+    double:
+      basic:
+        - '10 :: STONE : 0 : 32'
+      complement:
+        - '10 :: STONE : 0 : 32'
+      feast:
+        - '10 :: STONE : 0 : 32'
+
+    team:
+      basic:
+        - '10 :: STONE : 0 : 32'
+      complement:
+        - '10 :: STONE : 0 : 32'
+      feast:
+        - '10 :: STONE : 0 : 32'

@@ -1,0 +1,45 @@
+skywars:
+  minigames:
+    slot: 2
+    execute: 'CORE>jogos'
+    icon: 'COMPASS : 0 : 1 : display=&aModos de Jogo : lore=&eClique e escolha um modo de jogo.'
+  perfil:
+    slot: 3
+    execute: 'CORE>perfil'
+    icon: 'SKULL_ITEM : 3 : 1 : display=&aPerfil : lore=&eClique para ver suas;&einformações pessoais. : player=%player%'
+  shop:
+    slot: 5
+    execute: 'SKYWARS>shop'
+    icon: 'IRON_AXE : 0 : 1 : display=&aCombate : lore=&eClique para entrar no;&emodo de combate.'
+  colecionaveis:
+    slot: 7
+    execute: ''
+    icon: 'RAW_FISH : 3 : 1 : display=&aColecionáveis : lore=&eClique para ver seus;&ecolecionáveis'
+  visibilidade:
+    slot: 8
+    execute: 'CORE>visibilidade'
+    icon: 'INK_SACK : %visible_data% : 1 : display=&fJogadores: %visible_name% : lore=&eClique para que os jogadores;&e%visible_lore%'
+
+waiting:
+  kits:
+    slot: 4
+    execute: 'SKYWARS>kits'
+    icon: 'COMPASS : 0 : 1 : display=&aModos de Jogo : lore=&eClique e escolha um modo de jogo.'
+  perks:
+    slot: 6
+    execute: 'SKYWARS>perks'
+    icon: 'SKULL_ITEM : 3 : 1 : display=&aPerfil : lore=&eClique para ver suas;&einformações pessoais. : player=%player%'
+
+playagain:
+  play:
+    slot: 2
+    execute: 'SKYWARS>play'
+    icon: 'COMPASS : 0 : 1 : display=&aModos de Jogo : lore=&eClique e escolha um modo de jogo.'
+  map:
+    slot: 4
+    execute: ''
+    icon: 'SKULL_ITEM : 3 : 1 : display=&aPerfil : lore=&eClique para ver suas;&einformações pessoais. : player=%player%'
+  spec:
+    slot: 6
+    execute: 'SKYWARS>spec'
+    icon: 'IRON_AXE : 0 : 1 : display=&aCombate : lore=&eClique para entrar no;&emodo de combate.'
